@@ -13,8 +13,9 @@ TradeGuard is a **FastAPI-based OCR service** designed to extract text from trad
 - Docker-ready for quick deployment.
 
 ## Demo
+[Click to view demo](assets/Demo.gif)
 
-
+## Steps
 1. Clone the repo:
 ```bash
 git clone https://github.com/yourusername/TradeGuard.git
