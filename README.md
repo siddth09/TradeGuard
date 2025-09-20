@@ -13,6 +13,11 @@ TradeGuard is a **FastAPI-based OCR service** designed to extract text from trad
 - Docker-ready for quick deployment.
 
 ## Demo
+
+[![TradeGuard Demo](https://img.youtube.com/vi/rpeT_y0tH6s/0.jpg)](https://youtu.be/rpeT_y0tH6s)  
+
+_Click the image above to watch the demo on YouTube._  
+
 [Click to view demo](assets/Demo.gif)
 
 ## Steps
