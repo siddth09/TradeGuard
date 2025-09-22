@@ -2,9 +2,9 @@
   <img src="assets/TGlogo.png" alt="TradeGuard Logo" width="350"/>
 </p>
 
-# TradeGuard
+# TradeGuard AI
 
-TradeGuard is a **FastAPI-based OCR service** designed to extract text from trade documents using **Google Cloud Document AI**. It supports PDFs, images, and other common document formats. Ideal for automating trade finance workflows.
+TradeGuard AI is a **FastAPI-based OCR service** designed to extract text from trade documents using **Google Cloud Document AI**. It supports PDFs, images, and other common document formats. Ideal for automating trade finance workflows.
 
 ## Features
 - Upload PDFs, PNG, JPG, TIFF, and JPEG files.
